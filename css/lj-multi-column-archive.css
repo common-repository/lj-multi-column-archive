@@ -1,0 +1,9 @@
+.ljmulticolumnarchive-section {
+  float: left;
+}
+.ljmulticolumnarchive-section-next {
+  padding-left: 10px; 
+}
+.ljmulticolumnarchive-clear {
+  clear: both;
+}
